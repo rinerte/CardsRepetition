@@ -1,0 +1,6 @@
+@CardsRepetition_HostAddress = http://localhost:5111
+
+GET {{CardsRepetition_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
